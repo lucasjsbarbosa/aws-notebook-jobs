@@ -1,0 +1,21 @@
+{
+  "bucket_name": "experimento-lucas-barbosa",
+  "pasta_raw": "raw/",
+  "pasta_processed": "processed/",
+  "pasta_archive": "archive/",
+  "colunas_obrigatorias": [
+    "id_experimento",
+    "id_customer",
+    "grupo",
+    "uso",
+    "valor",
+    "timestamp"
+  ],
+  "grupo_controle": "GC",
+  "metricas_config": {
+    "taxa_conversao": "Percentual de clientes que usaram",
+    "uso_medio": "M\u00e9dia de uso por cliente",
+    "valor_medio": "Valor m\u00e9dio por cliente",
+    "ticket_medio": "Ticket m\u00e9dio (apenas quem gastou)"
+  }
+}
