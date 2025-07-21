@@ -1,6 +1,20 @@
 {
-  "timestamp": "2025-07-18T13:33:21.875542",
-  "arquivos_validos": [],
+  "timestamp": "2025-07-20T23:02:23.513044",
+  "arquivos_validos": [
+    {
+      "key": "raw/experimento_teste.csv",
+      "nome": "experimento_teste.csv",
+      "linhas": 20,
+      "colunas": [
+        "id_experimento",
+        "id_customer",
+        "grupo",
+        "uso",
+        "valor",
+        "timestamp"
+      ]
+    }
+  ],
   "arquivos_invalidos": [
     {
       "key": "raw/experimento_teste_2.csv",
