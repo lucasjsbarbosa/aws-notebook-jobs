@@ -1,27 +1,5 @@
 {
-  "timestamp": "2025-07-21T17:53:54.566533",
-  "arquivos_validos": [
-    {
-      "key": "raw/experimento_teste.csv",
-      "nome": "experimento_teste.csv",
-      "linhas": 20,
-      "colunas": [
-        "id_experimento",
-        "id_customer",
-        "grupo",
-        "uso",
-        "valor",
-        "timestamp"
-      ]
-    }
-  ],
-  "arquivos_invalidos": [
-    {
-      "key": "raw/experimento_teste_2.csv",
-      "nome": "experimento_teste_2.csv",
-      "erros": [
-        "Colunas faltando: {'id_experimento'}"
-      ]
-    }
-  ]
+  "timestamp": "2025-07-22T15:02:07.854120",
+  "arquivos_validos": [],
+  "arquivos_invalidos": []
 }
